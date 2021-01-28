@@ -1,0 +1,8 @@
+.footer {
+    margin-bottom: 41px;
+    background-color: white;
+    &__wrap {
+        background-color: $main-bg;
+        min-height: 330px;
+    }
+}
